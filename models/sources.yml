@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: orders
+    database: ORDERS_ANALYTICS
+    schema: LANDING
+    tables:
+      - name: orders_landing
+      
