@@ -6,4 +6,5 @@ sources:
     schema: LANDING
     tables:
       - name: orders_landing
+      - name: bikes_staging_shorter
       
